@@ -8,3 +8,4 @@ if __name__ == '__main__':
         arr.remove(maxNum)
         
     print(max(arr))
+    

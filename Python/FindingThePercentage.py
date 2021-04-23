@@ -7,5 +7,14 @@ if __name__ == '__main__':
         student_marks[name] = scores
     query_name = input()
     
-    print(student_marks)
+    tempList = student_marks.get(query_name)
+    
+    counter = 0
+    
+    for i in tempList:
+        counter += i
+        
+    print("%.2f" % (counter / len(tempList)))
+    
+    
         
