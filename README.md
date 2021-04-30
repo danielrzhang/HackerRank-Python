@@ -1,7 +1,9 @@
 # HackerRank-Python
+![](/images/HackerRank.png)
+
 This repository contains some of my Python 3 solutions for questions on HackerRank.
 
-![](/images/HackerRank.png)
+
 # My Page
 https://www.hackerrank.com/danielrzhang
 
