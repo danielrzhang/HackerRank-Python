@@ -1,7 +1,7 @@
 # HackerRank-Python
 ![](/images/HackerRank.png)
 
-This repository contains some of my Python 3 solutions for questions on HackerRank.
+This repository contains some of my Python 3 solutions for questions on HackerRank Python and Thirty Days of Code.
 
 
 # My Page
